@@ -3,6 +3,6 @@ package com.baidu;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("ÎÒ½Ğ°®±à³Ì======");
+		System.out.println("æˆ‘å«çˆ±ç¼–ç¨‹======");
 	}
 }
